@@ -11,9 +11,7 @@
 <hr>
 
 ### Who Am I
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lee02029">
-
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 - 🌱 I’m currently learning `Swift`, `Algorithm`
 - 🥇 I majored in Robotics
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
@@ -25,7 +23,8 @@
 - 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
 
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lee02029">
+
 
 
 
