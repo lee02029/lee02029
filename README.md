@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <hr>
+
 ### Who Am I
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lee02029">
@@ -23,7 +24,8 @@
 - 🌍 Recruit R&D, Automotive seat prototype management(2019.03~2020.04)
 - 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lee02029" height="165">
+<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 <hr>
 
 
