@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <hr>
 <a href="https://github.com/lee02029">
-<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=dark" />
+<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 </a>
 <hr>
