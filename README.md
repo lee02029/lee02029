@@ -13,8 +13,8 @@
 
 ### Who Am I
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
-- 🌱 I’m currently learning `Swift`, `Algorithm`
-- 🥇 I majored in Robotics
+- 🌱 I’m currently learning `Swift`, `Algorithm`<br>
+- 🥇 I majored in Robotics<br>
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
 
