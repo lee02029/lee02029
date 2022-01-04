@@ -21,7 +21,7 @@
 
 ### Experience
 
-- 🎓 Yeungnam University, Robotics (2021.03~2021.01)
+- 🎓 Yeungnam University, Robotics (2021.03~2022.01)
 - 🌍 Recruit R&D, Automotive seat prototype management(2019.03~2020.04)
 - 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
 
