@@ -16,6 +16,14 @@
 - 🌱 I’m currently learning `Swift`, `Algorithm`
 - 🥇 I majored in Robotics
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
+
+### Experience
+
+- 🎓 Yeungnam University, Robotics (2021.03~2021.01)
+- 🌍 Recruit R&D, Automotive seat prototype management(2019.03~2020.04)
+- 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
 <hr>
 
 
