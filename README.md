@@ -23,7 +23,7 @@
 - 🌍 Recruit R&D, Automotive seat prototype management(2019.03~2020.04)
 - 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lee02029" height="165">
 <hr>
 
 
