@@ -10,9 +10,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> &nbsp
 <hr>
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 
 ### Who Am I
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 
 - 🌱 I’m currently learning `Swift`, `Algorithm`
 - 🥇 I majored in Robotics
