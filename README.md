@@ -14,7 +14,7 @@
 <img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 </a>
-  <hr>
+<hr>
 
 <!--
 **lee02029/lee02029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
