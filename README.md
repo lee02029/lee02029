@@ -15,7 +15,6 @@
 ### Who Am I
 
 - 🌱 I’m currently learning `Swift`, `Algorithm`
-- 🥇 I majored in Robotics
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
 
