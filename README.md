@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> &nbsp
 <hr>
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact" />
 
 ### Who Am I
 
@@ -25,7 +24,7 @@
 - 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
 
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lee02029">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
 
 
 
