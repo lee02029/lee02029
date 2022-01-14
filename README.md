@@ -20,8 +20,8 @@
 ### Experience
 
 - 🎓 Yeungnam University, Robotics (2021.03~2022.01)
-- 🌍 Recruit R&D, Yokohama Japan, Automotive seat prototype management(2019.03~2020.04)
-- 🔥 Yeungnam Engineering University, Robotics & Mechatronics(2014.03~2019.02) 
+- 🌍 Recruit R&D, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
+- 🔥 Yeungnam Engineering University, Robotics & Mechatronics (2014.03~2019.02) 
 
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
 <img align='right' width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
