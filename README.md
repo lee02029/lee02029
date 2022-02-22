@@ -24,7 +24,7 @@
 - 🔥 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
 
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
-<img align='right' width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
+<img align='right' width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
 
 
 
