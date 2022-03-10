@@ -21,7 +21,7 @@
 
 - 🔥 Apple Developer Academy @ POSTECH (2022.03~)
 - 🎓 Yeungnam University, Robotics (2021.03~)
-- 🌍 Recruit R&D, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
+- 🌍 Recruit R&D , Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
 - 🔥 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
 
 <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
