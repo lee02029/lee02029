@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning `Swift`, `Algorithm`
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
-
 ### Experience
 
 - 🔥 Apple Developer Academy @ POSTECH (2022.03~)
