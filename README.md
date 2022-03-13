@@ -23,7 +23,7 @@
 - 🌍 Recruit R&D Staffing, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
 - 🔥 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
 
-<img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
+<img align="left" width="430px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
 <img align='right' width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
 
 
