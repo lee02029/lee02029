@@ -22,7 +22,7 @@
 - 🎓 Yeungnam University, Robotics (2021.03~)
 - 🌍 Adient, Yokohama Japan, Automotive seat prototype management (2019.09~2020.04)
 - 🌍 ZF TRW, Yokohama Japan, Automotive seatbelt test team (2019.03~2019.06)
-- 🔥 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
+- 🎓 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
 
 <img align="left" width="430px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
 <img align='right' width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
