@@ -13,7 +13,7 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning `Swift`, `Algorithm`
+- 🌱 I’m currently learning `Machine learning`, `Deep learning`, `Python`, `Swift`, `Algorithm`
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
 ### Experience
