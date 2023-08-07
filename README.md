@@ -19,7 +19,7 @@
 
 ### Experience
 
-- 🎓 National Institute for Lifelong Education Credit Bank System, Mechanical engineering (2023.01~2023.08)
+- 🎓 The Korean Academic Credit Bank System, Mechanical engineering (2023.01~2023.08)
 - 🔥 Apple Developer Academy @ POSTECH (2022.03~2022.12)
 - 🎓 Yeungnam University, Robotics (2021.03~2023.01)
 - 🌍 Recruit R&D Staffing, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
