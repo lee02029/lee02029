@@ -14,17 +14,17 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning `Machine learning`, `Deep learning`, `Python`, `Tensorflow`, `Swift`, `Algorithm`
-- 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
+- I’m currently learning `Machine learning`, `Deep learning`, `Python`, `Tensorflow`, `Swift`, `Algorithm`
+- My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
 ### Experience
-- 🔥 HumanScape, ML/AI Engineer(2025.05~2025.08)
-- 🔥 WemadePlay, AI Engineer(2023.12~2025.03)
-- 🎓 The Korean Academic Credit Bank System, Mechanical engineering (2023.01~2023.08)
-- 🔥 Apple Developer Academy @ POSTECH (2022.03~2022.12)
-- 🎓 Yeungnam University, Robotics (2021.03~2023.01)
-- 🌍 Recruit R&D Staffing, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
-- 🎓 Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
+- HumanScape, ML/AI Engineer(2025.05~2025.08)
+- WemadePlay, AI Engineer(2023.12~2025.03)
+- The Korean Academic Credit Bank System, Mechanical engineering (2023.01~2023.08)
+- Apple Developer Academy @ POSTECH (2022.03~2022.12)
+- Yeungnam University, Robotics (2021.03~2023.01)
+- Recruit R&D Staffing, Yokohama Japan, Automotive seat prototype management (2019.03~2020.04)
+- Yeungnam university college, Robotics & Mechatronics (2014.03~2019.02) 
 
 <img align="left" width="430px" src="https://github-readme-stats.vercel.app/api?username=lee02029&show_icons=true&theme=cobalt">
 <img align='right' width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee02029&layout=compact">
