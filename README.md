@@ -18,7 +18,8 @@
 - 🚅 My hometown is Gyeongsan-si, Gyeongsangbuk-do in Korea
 
 ### Experience
-
+- 🔥 HumanScape, ML/AI ENgineer(2025.05~2025.08)
+- 🔥 WemadePlay, AI Engineer(2023.12~2025.03)
 - 🎓 The Korean Academic Credit Bank System, Mechanical engineering (2023.01~2023.08)
 - 🔥 Apple Developer Academy @ POSTECH (2022.03~2022.12)
 - 🎓 Yeungnam University, Robotics (2021.03~2023.01)
